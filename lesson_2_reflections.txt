@@ -4,3 +4,13 @@ The folder will be known to Git and special meta files for Git will be created.
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 In the staging area are all file which will be commited in the future. There is no history information about the files inside.
 You can collect all files which should belong to one locical commite.
+
+How can you use the staging area to make sure you have one commit per logical change?
+I add all files with git add name to the staging area which will be saved to the repositorie in one commit after that.
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+If I add a feature for test or to make a simple variant from the original project. With branches I can name this more or less diffrent
+projects.
+
+How do the diagrams help you visualize the branch structure?
+It is easier to the the history which belong to any branch and I can see which one is in a line.
