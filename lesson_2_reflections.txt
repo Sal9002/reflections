@@ -14,3 +14,9 @@ projects.
 
 How do the diagrams help you visualize the branch structure?
 It is easier to the the history which belong to any branch and I can see which one is in a line.
+
+What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+It is one branch with both contents and the whole history of all commits.
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+There are less errors then I check it manually.
